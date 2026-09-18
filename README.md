@@ -1,29 +1,6 @@
 ## Hi, I'm Lucas 👋
 
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Lucas Vallejo - full-stack engineer, builder, tinkerer and lifelong learner :)" xmlns:c2pa="http://c2pa.org/manifest">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f172a"/>
-      <stop offset="1" stop-color="#1e293b"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#a78bfa"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#334155" stroke-width="1" opacity="0.5"/>
-    </pattern>
-  </defs>
-
-  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
-
-  <rect x="60" y="80" width="6" height="140" rx="3" fill="url(#accent)"/>
-
-  <text x="90" y="128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#38bdf8">~/lucas $</text>
-  <text x="90" y="182" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#f8fafc">Lucas Vallejo</text>
-  <text x="90" y="222" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#cbd5e1">full-stack engineer - builder - tinkerer - lifelong learner :)</text>
-</svg>
+<img src="https://raw.githubusercontent.com/lucasvallejodev/lucasvallejodev/main/header.png" alt="Lucas Vallejo - full-stack engineer, builder, tinkerer and lifelong learner :)">
 
 I'm a full-stack engineer based in Barcelona (originally from Argentina) who likes building things and learning new stuff 😊.
 
